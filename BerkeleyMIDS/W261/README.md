@@ -1,6 +1,9 @@
 ## Machine Learning at Scale Team Project: Criteo Click Through Rate Prediction
 
 ### Team Members: Ben Thompson, Kevin Gifford, Dan VanLunen, Matt Prout
+
+&nbsp;
+The public repository for the project can be found [here](https://github.com/ksgifford/W261_Final_CTR)
 &nbsp;
 
 For the final project of W261, we were asked to perform click through rate prediction on the Criteo data set (http://labs.criteo.com/2014/09/kaggle-contest-dataset-now-available-academic-use/).
@@ -15,5 +18,5 @@ The algorithm we used for our model was logistic regression.  We developed it fr
 
 Initial training conducted on 1% sample of the data to establish preliminary coefficients, using both L1 and L2 regularization. Using this method, training the full model required many fewer iterations to converge than training the sampled dataset.
 
-Here is the [presentation](./W261-Fall2018FinalProjectPresentation) we gave for the project.  The public repository for the project can be found [here:](https://github.com/ksgifford/W261_Final_CTR)
+Here is the [presentation](./W261-Fall2018FinalProjectPresentation.pdf) we gave for the project.
 
