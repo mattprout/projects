@@ -24,6 +24,6 @@ From our error analysis, it is clear that sentiment classification is a difficul
 Conclusions:
 If the reviews did not have food overlap, then the accuracy was worse.  Also classification is worse for long reviews, reviews with sarcasm / complex phrasing, or domain specific words.
 
-Here is the [project report](./W266_Project_Presentation.pdf).
-Here is the [presentation](./W261-Fall2018FinalProjectPresentation.pdf) we gave for the project.
+Here is the [project report](./W266_Project_Report.pdf).
+Here is the [presentation](./W266_Project_Presentation.pdf) we gave for the project.
 
