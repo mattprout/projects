@@ -1,5 +1,7 @@
-## Capstone Project: Docsund
+## Capstone Team Project: Docsund
 
+### Team Members: Ryan Delgado, Andrew Carlson, Danielle O’Neil, Matthew Prout
+&nbsp;
 For the capstone class I joined a project called [Docsund](http://docsund.info). The purpose of Docsund is to make it easier for journalists and researchers to search through document dumps to find stories. Our specific use case was email dumps.
 
 Our team met with a stakeholder from Bloomberg to help us define the features. During the semester, we gave two project presentations to update the class on our status, and a [final presentation](./Docsund-FinalPresentation.pdf) to demonstrate our working product. After implementing our initial design, we met with the stakeholder to get feedback on the design which we incorporated into the final product.
