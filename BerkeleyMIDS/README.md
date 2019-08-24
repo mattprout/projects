@@ -6,3 +6,5 @@
 
 ## W261 - Machine Learning At Scale
 
+## W266 - Natural Language Processing with Deep Learning
+
