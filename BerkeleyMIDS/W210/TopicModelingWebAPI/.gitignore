@@ -1,0 +1,4 @@
+mallet-2.0.8*
+state/Temp/*.png
+state/TopicData/*.json
+state/TopicData/*.csv
