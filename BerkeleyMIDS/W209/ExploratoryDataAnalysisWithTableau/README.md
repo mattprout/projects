@@ -1,6 +1,6 @@
 ## Exploratory Data Analysis using Tableau
 
-The purpose of this assignment was to find evidence for or against three hypotheses we came up with for a particular data set by performing exploratory data analysis (EDA) of a data set in order using Tableau.
+The purpose of this [assignment](ExploratoryDataAnalysisUsingTableau.pdf) was to find evidence for or against three hypotheses we came up with for a particular data set by performing exploratory data analysis (EDA) of a data set in order using Tableau.
 
 The data set I chose came from the Online Dating & Relationships survey from the Pew Research Center (http://www.pewinternet.org/2013/10/21/online-dating-relationships/).
 
