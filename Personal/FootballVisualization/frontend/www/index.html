@@ -1,0 +1,42 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <title>2020 Quarterback Statistics</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+  <h1 class="nfl_font">2020 NFL Quarterback Statistics</h1>
+  <h2 class="nfl_font" id="dataObtained"></h2>
+  <h3 class="nfl_font">Data source: https://www.pro-football-reference.com/years/2020/passing.htm</h3>
+  <div class="container scatterplot">
+    <div class="row">
+      <div>
+        <div id="myfigure">
+        </div>
+      </div>
+    </div>
+  </div>
+  <div>
+    <div class="axis_selection">
+      <label class="nfl_font" for="verticalAxisSelection">Choose the vertical axis:</label>
+      <select class="nfl_font" id="verticalAxisSelection">
+      </select>
+    </div>
+    <div class="axis_selection">
+      <label class="nfl_font" for="horizontalAxisSelection">Choose the horizontal axis:</label>
+      <select class="nfl_font" id="horizontalAxisSelection">
+      </select>
+    </div>
+  </div>
+
+  <!-- page content -->
+  <script src="js/jquery-1.11.0.min.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+  <script src="js/d3.v4.js"></script>
+  <script src="js/football-viz.js"></script>
+</body>
+
+</html>

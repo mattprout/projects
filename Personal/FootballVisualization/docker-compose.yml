@@ -1,0 +1,23 @@
+version: "3"
+
+services:
+  nginx:
+    image: mprout/nginx-test:1.0
+    container_name: nginx
+    volumes:
+      - /home/ubuntu/www:/home/ubuntu/web_deploy/
+    ports:
+      - "80:80"
+    networks:
+    - my-network
+    depends_on:
+    - flask
+  flask:
+    image: mprout/flask-test:1.0
+    container_name: flask
+    networks:
+      - my-network
+
+networks:
+  my-network:
+

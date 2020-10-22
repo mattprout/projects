@@ -1,0 +1,25 @@
+h1, h2, h3 {
+	text-align: center;
+}
+
+.nfl_font {
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.axis_selection {
+	margin: 25px;
+}
+
+.scatterplot {
+	background-color: green
+}
+
+.scatterplot_font {
+	font-family: Arial, Helvetica, sans-serif;
+	color: white
+}
+
+.axis_font {
+	font-family: Arial, Helvetica, sans-serif;
+	color: white
+}
