@@ -6,7 +6,6 @@ This is the project I worked on in the fall of 2020.  This project showcases the
 3. Create Docker containers for both the Flask web service that runs the Gunicorn HTTP server, and the front end web server which runs Nginx.
 4. Deployment to AWS.  The Docker containers are deployed to the AWS EC2 instance and run using Docker Compose.
 
-The website can be reached at this address:  http://34.212.243.137/
 
 ![Webpage Screenshot](./img/WebpageScreenshot.png)  
 
